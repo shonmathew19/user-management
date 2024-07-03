@@ -18,7 +18,7 @@ class Landing {
                 }
                 this.saveData()
                 alert('Registration successful')
-                window.location = "login.html"
+                window.location = "home.html"
             }
         } else {
             alert('Please enter valid values')
